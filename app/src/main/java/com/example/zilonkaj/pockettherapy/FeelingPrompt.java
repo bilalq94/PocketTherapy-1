@@ -14,7 +14,7 @@ public class FeelingPrompt extends AppCompatActivity {
     }
 
     public void sendMessage(View view){
-        Intent StartNew = new Intent(this, AdviceActivity.class);
+        Intent StartNew = new Intent(this, FinalScreen.class);
         startActivity(StartNew);
 
 

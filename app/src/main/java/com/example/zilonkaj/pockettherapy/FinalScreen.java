@@ -3,7 +3,7 @@ package com.example.zilonkaj.pockettherapy;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class AdviceActivity extends AppCompatActivity {
+public class FinalScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

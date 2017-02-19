@@ -27,7 +27,7 @@
             android:label="@string/title_activity_questionare"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".FeelingPrompt" />
-        <activity android:name=".AdviceActivity" />
+        <activity android:name=".FinalScreen" />
         <activity
             android:name=".preQuestionnaire"
             android:label="@string/title_activity_pre_questionnaire"
